@@ -9,6 +9,7 @@
 ![image](https://github.com/user-attachments/assets/36c89dc4-5bf5-4703-a54c-d930ea402b2c)
 
 <h2>Submit the markdown file with your Learnings from Week 1.</h2>
+https://github.com/goodddybag/Task2-G3/blob/main/Week%201%20learning.md
   
 <h2>Submit a screenshot showing commit history with at least 3 commits from each partner.</h2>
 
